@@ -1,7 +1,7 @@
 # Web-Scrapping
 
-What does this Application do?
 This Program takes input as Email ID of the User and names of TV series.
+
 The main aim of this program is to send user an email consisting of information regarding when the next episode of these TV series will be aired or the series is finished.
 
 How to use this Program?
